@@ -2,7 +2,7 @@
 Week - 1 - How does your cell phone decide what power to transmit?
 ```
 ```
-1 -  Mobile Penetration
+1 - Mobile Penetration
 2 - Multiple Access
 3 - FDMA
 4 - 0G
